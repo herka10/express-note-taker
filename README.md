@@ -14,7 +14,7 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-## Mock-Up
+## Screenshot
 
 The following images show the web application's appearance and functionality:
 
